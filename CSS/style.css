@@ -1,0 +1,16 @@
+.header{
+    --opacidad-negro: 0.6;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../IMG/imgHeader.jpg");
+    background-size: cover;
+    height: 50%;
+    height: 30rem;
+}
+
+.container{
+    padding-top: 4rem;
+}
+
+.esfera img{
+    width: 10rem;
+    height: 10rem;
+}
